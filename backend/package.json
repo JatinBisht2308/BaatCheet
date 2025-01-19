@@ -1,0 +1,11 @@
+{
+  "name": "baatcheet_backend",
+  "version": "1.0.0",
+  "description": "this is a chat app uses socket.io and with multiple themes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
